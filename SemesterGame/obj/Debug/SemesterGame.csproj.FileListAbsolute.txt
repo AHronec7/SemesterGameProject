@@ -1,0 +1,35 @@
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe.config
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\bin\Debug\SemesterGame.pdb
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.PokerGameMainScreen.resources
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.StartMenu.resources
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.exe
+C:\Users\MTCStudent\Desktop\C # programming\SemesterGame\SemesterGame\obj\Debug\SemesterGame.pdb
+G:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe.config
+G:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe
+G:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.pdb
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csprojResolveAssemblyReference.cache
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.PokerGameMainScreen.resources
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.StartMenu.resources
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.Properties.Resources.resources
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.GenerateResource.Cache
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.CoreCompileInputs.cache
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.exe
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.pdb
+G:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.GameBoard.resources
+D:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe.config
+D:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.exe
+D:\C#\SemesterGame\SemesterGame\bin\Debug\SemesterGame.pdb
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csprojResolveAssemblyReference.cache
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.GameBoard.resources
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.PokerGameMainScreen.resources
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.StartMenu.resources
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.Properties.Resources.resources
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.GenerateResource.Cache
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.csproj.CoreCompileInputs.cache
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.exe
+D:\C#\SemesterGame\SemesterGame\obj\Debug\SemesterGame.pdb
